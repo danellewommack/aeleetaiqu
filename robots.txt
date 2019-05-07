@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eijaerait.aioo.be/sitemap.xml
